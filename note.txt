@@ -1,0 +1,36 @@
+正向Keywords 
+HRV(Heart Rate Variability)
+sympathetic
+autonomic
+LF(Low Frequency)
+HF(High Frequency
+LF/HF(Low Frequency /High Frequency ratio)
+RMSSD(the root mean square of successive difference)
+SD1
+
+負向Keywords 
+Child 
+Dog 
+Pediatric 
+Adolescent 
+Athlete 
+COVID
+Angiotensin converting enzyme inhibitor
+caffeine
+Student 
+Fetal 
+Pregnancy
+
+例如針對 Cochrane這個檔案
+是否先要將變項名 去空白 加底線
+針對Title 欄位 依照正向  及 負向 keyword加在最後欄位
+照到的設為1  沒的0
+針對Abstract 欄位 依照正向  及 負向 keyword加在最後欄位
+照到的設為1  沒的0
+
+再麻煩整理CODES 貼在notepad++備忘  順便加一些註記
+
+加38個欄位 _ttl(全), _ab(全+縮寫)
+全改小寫 text mining
+
+1萬 --> 300
